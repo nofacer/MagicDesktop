@@ -6,7 +6,7 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   overflow: hidden;
-  cursor: none;
+cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=), none;
 }
 
 .column,
